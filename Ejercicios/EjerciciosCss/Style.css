@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+
+div{
+    background-color: brown;
+    width: 400px;
+    height: 200px;
+    /*
+   Esto es un comentario 
+    */
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+/*Esto es una clase*/
+.ColorAzul{
+    background-color: blue;
+}
