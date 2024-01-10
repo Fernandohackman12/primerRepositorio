@@ -1,9 +1,21 @@
 body{
     background-color: greenyellow;
 }
-h1{background-color: chocolate;}
-h2{background-color: crimson;}
-.ColorAzul{background-color: blue;}
+@font-face {
+    font-family: 'Lemon', serif;
+    src: url('../Fonts/Lemon-Regular.ttf');
+}
+h1{
+   font-family: 'Lemon', serif;
+   margin-left: 100px;
+    background-color: chocolate;
+}
+h2{
+    background-color: crimson;
+}
+.ColorAzul{
+    background-color: blue;
+}
 h3{
     font-family: 'Bungee Spice', sans-serif;
 }
