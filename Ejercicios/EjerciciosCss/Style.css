@@ -1,7 +1,17 @@
 *{
     margin: 0;
 }
-
+h2{
+    margin-top: 20px;
+    background-color: chocolate;
+    width: 90%;
+    color: aliceblue;
+}
+h3{
+    background-color: coral;
+    width: 90%;
+    color: gray;
+}
 div{
     background-color: brown;
     width: 400px;
@@ -11,6 +21,10 @@ div{
     */
     margin-top: 50px;
     margin-left: 20px;
+}
+p{
+    margin-top: 20px;
+    color: white;
 }
 
 /*Esto es una clase*/
